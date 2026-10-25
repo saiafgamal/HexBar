@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+*.gdoc
+.DS_Store
